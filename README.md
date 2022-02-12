@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vikasgh
+- 👋 Hi, I’m Vikas Gupta @vikasgh
 - 👀 I’m interested in Security applications and information
 - 🌱 I’m currently learning jenkins, SAST, DAST, Open source risks
 - 💞️ I’m looking to collaborate on python projects, vulerability detection scripts 
